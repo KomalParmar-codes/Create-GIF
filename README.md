@@ -3,10 +3,10 @@ Create GIF from Multiple Images using Python
 # Overview 
 This project demonstrates how to generate an animated GIF from multiple image files using Python. It is ideal for anyone learning image processing, basic automation, or Python scripting. The script reads images, resizes them to a consistent shape, and creates a smooth GIF using the imageio and PIL libraries.
 # Technologies Used
-Python 3
-imageio
-Pillow (PIL)
-NumPy
+1. Python 3
+2. imageio
+3. Pillow (PIL)
+4. NumPy
 
 # How to Run
 1. Install Required Libraries
@@ -20,7 +20,7 @@ python GIF.py
 4. Output
 A file named team.gif will be generated in the same directory.
 
-#Educational Purpose
+# Educational Purpose
 This project is part of a hands-on exercise to:
 Learn how to work with images in Python
 Understand image resizing and format conversion
