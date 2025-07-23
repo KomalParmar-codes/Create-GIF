@@ -22,7 +22,7 @@ A file named team.gif will be generated in the same directory.
 
 # Educational Purpose
 This project is part of a hands-on exercise to:
-Learn how to work with images in Python
-Understand image resizing and format conversion
-Automate media processing tasks
-Practice basic file handling and library usage
+1. Learn how to work with images in Python
+2. Understand image resizing and format conversion
+3. Automate media processing tasks
+4. Practice basic file handling and library usage
